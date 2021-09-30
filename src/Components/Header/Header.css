@@ -1,0 +1,36 @@
+.header-container{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-logo{
+    color: white;
+    font-size: 25px;
+    margin-left: 100px;
+    letter-spacing: 1px;
+}
+.r-text{
+    color: crimson;
+    font-size: 45px;
+    font-weight: 800;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+nav{
+    margin: 0px 10px;
+    margin-right: 80px;
+}
+.nav-link{
+    margin: 0px 20px;
+    font-weight: 600;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    border-bottom: 2px solid transparent;
+    transition: 0.6s ease-in;
+}
+.nav-link:hover{
+    color: crimson;
+    border-bottom: 2px solid crimson;
+
+}

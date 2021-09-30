@@ -1,0 +1,18 @@
+.card-item{
+    margin: 0 auto;
+    padding-bottom: 30px;
+}
+.allFood-btn{
+    background-color: transparent;
+    border: 2px solid crimson;
+    color: crimson;
+    border-radius: 5px;
+    padding: 8px 30px;
+    font-weight: 600;
+    transition: 0.6s ease-in;
+}
+.allFood-btn:hover{
+    background-color: crimson;
+    border: 2px solid crimson;
+    color: white;
+}
